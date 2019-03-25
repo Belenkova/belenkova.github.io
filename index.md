@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Привет, меня зовут Александра Беленкова! 
+![](https://st.hzcdn.com/fimgs/82034ff7052cbf82_5620-w174-h174-b0-p0--.jpg)
 
-You can use the [editor on GitHub](https://github.com/Belenkova/belenkova.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Я могу быть полезна в создании: 
+1. эксклюзивных дизайн-макетов 
+2. интерактивных презентаций 
+3. и front-end-разработке.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Кроме того, я являюсь **маркетологом** со стажем работы _свыше 16 лет_! Это обязательно пригодится тем, кто хочет пригласить в команду человека, улавливающего тонкости визуализации и подачи материала.
 
-### Markdown
+Мы можем вместе работать над:
+- сайтами, 
+- мобильными приложениями,
+- презентациями,
+- играми,
+- и другими проектами на Ваше усмотрение.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Пожалуйста, напишите мне на al.sk@mail.ru
 
-# Header 1
-## Header 2
-### Header 3
+Это мой личный e-mail, поэтому в нем много писем. 
 
-- Bulleted
-- List
+_Для того чтобы я быстро нашла Ваше письмо, прошу указать в теме "Для Александры Беленковой". Спасибо :)_
 
-1. Numbered
-2. List
+Мой сайт я готовлю здесь - [eDetail.ru](http://www.edetail.ru) 
 
-**Bold** and _Italic_ and `Code` text
+### Буду рада Вашим интересным проектам!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Belenkova/belenkova.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
